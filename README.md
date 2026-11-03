@@ -7,7 +7,7 @@ A 4th Year Computer Science student(Web Science) at Adamson University, Manila. 
 - Uses YOLO11 for object detection and ResNet50 for classification.
 [Live demo](https://wastewise-app.streamlit.app/)
 
-Hurno: An online pastry ordering system with integrated order management and real-time status tracking.
+**Hurno**: An online pastry ordering system with integrated order management and real-time status tracking.
 - Android (Java) customer app and PHP/MySQL admin dashboard with real-time order tracking and role-based access.
 [Live site](https://hurno.adu-cs.com/home.php)
 
